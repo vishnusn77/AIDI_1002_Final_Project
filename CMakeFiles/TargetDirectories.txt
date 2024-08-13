@@ -1,0 +1,8 @@
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/dark.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/uselib.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/darknet.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/kmeansiou.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/PACKAGE.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/INSTALL.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/vishn/Downloads/darknet-master/darknet-master/CMakeFiles/ZERO_CHECK.dir
